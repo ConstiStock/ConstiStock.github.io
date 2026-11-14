@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["TC949D4Q88.de.wipquiz.app"],
+        "components": [
+          { "/": "/wipquiz/c.html", "comment": "Einladung zur Flaggen-Challenge" }
+        ]
+      },
+      {
+        "appID": "TC949D4Q88.de.wipquiz.app",
+        "paths": ["/wipquiz/c.html"]
+      }
+    ]
+  }
+}
